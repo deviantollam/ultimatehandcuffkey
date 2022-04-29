@@ -1,5 +1,5 @@
 # ultimatehandcuffkey
-a copy of TOOOL's "Ultimate Handcuff Key" diagram from 2009
+A copy of TOOOL's "Ultimate Handcuff Key" diagram from 2009
 
 Back at DEF CON 18, TOOOL presented our formula for creating what we called the "Ultimate Handcuff Key"
 
